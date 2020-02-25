@@ -1,4 +1,4 @@
-# rasa-chatbot
+# Rasa-Chatbot
 Build your own chatbot in minutes- Part one: Rasa NLU
 
 Chatbots are gaining traction everyday, and the day is not far when it's gonna touch almost all aspects of life.If you see biggies like IBM, Facebook, Google, Microsoft and Amazon all are working extensively on it and each building their own framework.
