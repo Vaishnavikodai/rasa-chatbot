@@ -12,6 +12,6 @@ Clone or download the repository
 
 Follow step by step tutorial [here](https://medium.com/@vaishnavikodai/build-your-own-conversational-chatbot-in-minutes-part-one-rasa-nlu-13df39601032)
 
-## Important link:
+## Important links:
 - [Rasa installation ](https://rasa.com/docs/rasa/user-guide/installation/) 
 - [Rasa pipeline](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/)
